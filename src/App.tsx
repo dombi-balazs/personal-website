@@ -1,4 +1,5 @@
 import "./App.css";
+import profileImage from "./assets/profile.jpg";
 
 function App() {
   return (
@@ -8,10 +9,8 @@ function App() {
           <h1>Welcome to my website!</h1>
         </div>
         <div className="text-box">
+          <h2>Who am I?</h2>
           <p>
-            <p>
-              <h2>Who am I?</h2>
-            </p>
             My name is Dombi Balázs Sándor and this is my personal website. I
             made it to
             <br />
@@ -28,21 +27,17 @@ function App() {
           </p>
           <br />
           <p>
-            <image>
-              <img
-                className="profile-image"
-                src="/profile.jpg"
-                alt="Profile Picture"
-              />
-            </image>
+            <img
+              className="profile-image"
+              src={profileImage}
+              alt="Profile photo"
+            />
             <br />
             Me
           </p>
         </div>
         <div className="text-box justified">
-          <p className="centerThat">
-            <h2>Studies</h2>
-          </p>
+          <h2 className="centerThat">Studies</h2>
 
           <h3>Schools</h3>
 
@@ -174,13 +169,11 @@ function App() {
             <strong>Hobbies</strong>
           </h3>
 
-          <p>
-            <ul>
-              <li>Hiking 🏞️</li>
-              <li>Gaming 🎮</li>
-              <li>Reading 📚</li>
-            </ul>
-          </p>
+          <ul>
+            <li>Hiking 🏞️</li>
+            <li>Gaming 🎮</li>
+            <li>Reading 📚</li>
+          </ul>
         </div>
         <div className="text-box">
           <h2>Profiles</h2>
