@@ -1,6 +1,5 @@
 import "./App.css";
 import profileImage from "./assets/profile.jpg";
-
 function App() {
   return (
     <>
@@ -8,7 +7,7 @@ function App() {
         <div className="text-box">
           <h1>Welcome to my website!</h1>
         </div>
-        <div className="text-box">
+        <div className="text-box centerThat">
           <h2>Who am I?</h2>
           <p>
             My name is Dombi Balázs Sándor and this is my personal website. I
@@ -80,7 +79,7 @@ function App() {
               according to the Charter of Fundamental Rights of the European
               Union. You can download my work from{" "}
               <a
-                href="https://drive.google.com/file/d/1HgcTXJ90q03fcybmsEpxYhz5_Z62RN_P/view?usp=sharing"
+                href="https://docs.google.com/document/d/1YFxo6QXVthy_VYWdT8PLdna9hM45rDed/edit?usp=sharing&ouid=108044016053514114860&rtpof=true&sd=true"
                 target="_blank"
               >
                 here
