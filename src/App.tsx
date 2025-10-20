@@ -218,12 +218,6 @@ function App() {
           </p>
 
           <p>
-            <a href="https://gravatar.com/dombibalazs" target="_blank">
-              Gravatar
-            </a>
-          </p>
-
-          <p>
             <a href="https://www.reddit.com/user/balazs-dombi/" target="_blank">
               Reddit
             </a>
