@@ -54,6 +54,7 @@ function App() {
                 href="https://levay.tirek.hu/hirek/h%C3%ADr-arch%C3%ADvum/hirek-2018-2019/a-levay-jog-aszok-csapata-nyerte-meg-a-perszimulacios-versenyt/"
                 target="_blank"
               >
+                {" "}
                 legal competition
               </a>
               for students, I was in the role of a lawyer.
@@ -155,11 +156,16 @@ function App() {
                 <strong>Stack</strong>
               </h4>
             </li>
-            <p>Languages: 🛠️ C#, 🌐 TypeScript, 🦫 Go, 📊 Julia, 🐦 Roc</p>
+            <p>Languages: 🛠️ C#, 🌐 TypeScript, 📊 Julia</p>
+
+            <p>
+              Frameworks and libraries: React, ASP.NET, ML.NET, MAUI, Avalonia,
+              Fluent 2, Lux.jl, Makie.jl, Agents.jl
+            </p>
 
             <p>Developer environments: JetBrains Rider, Zed, Nano</p>
 
-            <p>Other technologies: Linux (Ubuntu), Git</p>
+            <p>Other technologies: Linux (Ubuntu), Git, NodeJS, Bun</p>
           </ul>
 
           <br />
