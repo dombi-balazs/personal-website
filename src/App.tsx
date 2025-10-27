@@ -156,11 +156,11 @@ function App() {
                 <strong>Stack</strong>
               </h4>
             </li>
-            <p>Languages: 🛠️ C#, 🌐 TypeScript, 📊 Julia</p>
+            <p>Languages: 🛠️ C#, 🌐 TypeScript, 🧮 F#</p>
 
             <p>
               Frameworks and libraries: React, ASP.NET, ML.NET, MAUI, Avalonia,
-              Fluent 2, Lux.jl, Makie.jl, Agents.jl
+              Fluent 2
             </p>
 
             <p>Developer environments: JetBrains Rider, Zed, Nano</p>
