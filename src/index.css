@@ -76,6 +76,7 @@ body {
     font-optical-sizing: auto;
     line-height: 1.6;
     color: white;
+    background-attachment: fixed;
 }
 
 h1,
