@@ -8,8 +8,7 @@ import Menu from "./components/Menu"
 function App() {
   return (
     <div className="div-container">
-      
-        <Welcome />
+      <Welcome />
       <Menu />
       <AboutMe />
       <Studies />

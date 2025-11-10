@@ -1,9 +1,14 @@
 import "../App.css";
+import FuturisticText from "./FuturisticText";
+
+const title = "Welcome";
 
 function Welcome() {
-    return(        
+    return(         
         <div className="text-box animate-on-scroll">
-          <h1>Welcome to my website!</h1>
+          <h1>
+          <FuturisticText text={title} />
+          </h1>
         </div>
         )
         }
